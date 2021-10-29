@@ -13,3 +13,4 @@ ACM ICPC
 
 # theofbestcoders
 1. Linus Torvalds
+2. Vitalik Buterin
